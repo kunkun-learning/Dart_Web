@@ -1,5 +1,3 @@
-// https://dart.dev/tutorials/web/fetch-data
-
 import 'dart:html';
 import 'dart:convert';
 
